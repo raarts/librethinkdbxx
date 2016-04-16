@@ -1,6 +1,7 @@
 
 #include <cstring>
-#include <locale.h>
+#include <stdlib.h>
+#include <xlocale.h>
 
 #include "json.h"
 #include "error.h"
